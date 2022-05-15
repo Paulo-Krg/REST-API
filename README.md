@@ -41,7 +41,7 @@ Dev dependencies:
 ### How to make API requests and view the response:
 - From a CLI using _curl_. Ex.: `curl http://localhost:8080/`.
 - Using a VSCode extension like _REST Client_.
-- Installing a REST client application like _Insomnia_ or _Postman_.
+- Installing a REST client application like _[Insomnia](https://insomnia.rest/download)_ or _[Postman](https://www.postman.com)_.
 - Using an [open source](https://github.com/hoppscotch/hoppscotch) API development ecosystem project like _[hoppscotch](https://hoppscotch.io/)_.
 
 ### Documenting APIs:
